@@ -57,3 +57,5 @@ Submit a Pull Request to merge your changes into the main repository.
 ## Acknowledgments
 Special thanks to all the contributors and open-source projects that have supported the development of this Sorting Visualizer. Your contributions are greatly appreciated.
 
+img1.png
+img2.png
